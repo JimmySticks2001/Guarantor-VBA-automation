@@ -1,4 +1,4 @@
-guarantorAutomationFromVBA v0.1.1
+guarantorAutomationFromVBA v0.1.2
 
 Written by Tim Lightfoot, TLightfoot@ntst.com, tlightfo@gmail.com
 
@@ -10,6 +10,10 @@ Version history
 
 07/30/2014 v0.1.1
 	Added unblocking the WASP.dll after copying it from the network drive.
+
+08/01/2014 v0.1.2
+	Added unblocking the WASP.dll after copying it from the network drive.
+	Added -ExecutionPolicy Bypass to .bat file.
 
 
 Dependencies
